@@ -1,0 +1,24 @@
+localhost -8080
+
+c-->user-->mandira rai-->new folder-->static web
+
+open cmd normally
+
+cd c:/user/mandira rai/staticweb
+ 
+npm init
+press enter
+
+npm i express
+
+mkdir public
+
+cd public
+
+now open it in vs code create index.html and index.js file in both file do some coding part
+
+cd..
+
+node app.js
+
+open localhost 8080
